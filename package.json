@@ -1,5 +1,5 @@
 {
-  "name": "laravel-elixir-livereload",
+  "name": "developingo-elixir-livereload",
   "version": "0.0.3",
   "description": "An elixir wrapper for livereload",
   "keywords": [
@@ -9,18 +9,18 @@
     "gulp"
   ],
   "author": {
-    "name": "Joseph Richardson",
-    "email": "",
-    "url": "https://github.com/EHLOVader"
+    "name": "Abraham Toriz",
+    "email": "awonderfulcode@gmail.com",
+    "url": "https://github.com/developingo"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehlovader/laravel-elixir-livereload"
+    "url": "https://github.com/developingo/developingo-elixir-livereload"
   },
   "bugs": {
-    "url": "https://github.com/ehlovader/laravel-elixir-livereload/issues"
+    "url": "https://github.com/developingo/developingo-elixir-livereload/issues"
   },
-  "homepage": "https://github.com/ehlovader/laravel-elixir-livereload",
+  "homepage": "https://github.com/developingo/developingo-elixir-livereload",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

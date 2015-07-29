@@ -1,7 +1,5 @@
 var gulp = require('gulp'),
-    elixir = require('laravel-elixir'),
-    utilities = require('laravel-elixir/ingredients/commands/Utilities'),
-    notifications = require('laravel-elixir/ingredients/commands/Notification'),
+    elixir = require('developingo-elixir'),
     livereload = require('gulp-livereload');
 
 elixir.extend('livereload', function (src) {

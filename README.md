@@ -1,19 +1,19 @@
-# gulp-laravel-elixir-livereload
-> laravel-elixir-livereload plugin for [gulp](https://github.com/wearefractal/gulp)
+# developingo-elixir-livereload
+> developingo-elixir-livereload plugin for [gulp](https://github.com/wearefractal/gulp)
 
 ## Usage
 
-First, install `laravel-elixir-livereload` as a development dependency:
+First, install `developingo-elixir-livereload` as a development dependency:
 
 ```shell
-npm install --save-dev laravel-elixir-livereload
+npm install --save-dev developingo-elixir-livereload
 ```
 
 Then, add it to your `gulpfile.js`:
 
 ```javascript
-var elixir = require('laravel-elixir');
-require('laravel-elixir-livereload');
+var elixir = require('developingo-elixir');
+require('developingo-elixir-livereload');
 
 elixir(function (mix) {
 
@@ -34,7 +34,7 @@ Live reload also uses a script file so add the following to your blade template.
 
 ## API
 
-### laravel-elixir-livereload(src)
+### developingo-elixir-livereload(src)
 
 #### src
 Type: `array` or `string`  
@@ -51,7 +51,5 @@ The message you wish to attach to file.
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
-[npm-url]: https://npmjs.org/package/laravel-elixir-livereload
-[npm-image]: https://badge.fury.io/js/laravel-elixir-livereload.png
-
-
+[npm-url]: https://npmjs.org/package/developingo-elixir-livereload
+[npm-image]: https://badge.fury.io/js/developingo-elixir-livereload.png
