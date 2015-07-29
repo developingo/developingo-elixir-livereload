@@ -1,6 +1,6 @@
 {
   "name": "developingo-elixir-livereload",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An elixir wrapper for livereload",
   "keywords": [
     "laravel",
